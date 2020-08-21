@@ -1,0 +1,5 @@
+Basic Command execution
+   echo    example- echo world (your input "world" will be echoed back)
+   
+   Manual pages and flags
+   lot of options that are not immediately known at first glance, these options are known as flags, and have the format <command> <flag> <input>

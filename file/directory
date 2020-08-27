@@ -1,0 +1,7 @@
+Create a file  (example- creating a file with name "cat")
+   touch cat.txt
+   ls (will list if it has been created)
+   
+How to add content to file
+  echo 'I am happy' > abc.txt   (syntax- echo '(content)' > (file name)
+  cat abc.txt                   (shows what in the file now)
